@@ -84,8 +84,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'pg-sandbox',
-        'USER': 'postgres',
-        'PASSWORD': '116615118',
+        'USER': ,
+        'PASSWORD': ,
         'HOST': 'localhost'
     }
 }
